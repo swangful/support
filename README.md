@@ -2,9 +2,9 @@
 
 Me after finishing this at 2:08 AM PST.
 
-![](https://media.tenor.com/images/5e2f5db8dbe13e044303d33095e380f8/tenor.gif)
+![](https://media0.giphy.com/media/KscoZccAOBgCk/200.gif))
 
-Believe it or not, again I decided to stick with Ruby because I felt I could best showcase my capabilities and truthfully, most quickly, produce quality results. 
+POC before attempting C#.
 
 **Things that I used to help DRY up code**
 - Cucumber examples table
